@@ -100,8 +100,6 @@ as a foundational example of machine learning implementation in Python.
 
 --------------------------------------------------------------------------
 
-Author
+##OUTPUT 
 
-Utkarsh Parulekar
-
-This project is submitted as part of the CODTECH Python Programming Internship.
+https://github.com/user-attachments/assets/dd9abb66-8ad8-48bf-9690-ac65956cf0eb
