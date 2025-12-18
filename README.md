@@ -100,6 +100,6 @@ as a foundational example of machine learning implementation in Python.
 
 --------------------------------------------------------------------------
 
-##OUTPUT 
+# OUTPUT 
 
-https://github.com/user-attachments/assets/dd9abb66-8ad8-48bf-9690-ac65956cf0eb
+<img width="1000" height="500" alt="Image" src="https://github.com/user-attachments/assets/dfcc9feb-0640-4287-8aa3-c3cfa1a8c5a1" />
